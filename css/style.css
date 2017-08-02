@@ -1,6 +1,11 @@
-img{
+.imaget
+{
   float: left;
+  width: 50%;
 }
-img{
-float: right;
+
+.ptest
+{
+  float: right;
+  width: 50%;
 }
